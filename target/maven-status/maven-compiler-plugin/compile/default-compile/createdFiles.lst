@@ -1,0 +1,7 @@
+pageObjects\cartPage.class
+AbstractComponents\abstractClass.class
+pageObjects\confirmationPage.class
+pageObjects\productCatalogue.class
+pageObjects\checkoutPage.class
+pageObjects\landingPage.class
+pageObjects\OrderPage.class

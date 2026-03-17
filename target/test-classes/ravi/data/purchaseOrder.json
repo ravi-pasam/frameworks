@@ -1,0 +1,17 @@
+[
+
+	{	"email": "ravi11@gmail.com",
+		"password": "Ravi@123",
+		"productName": "IPHONE 13 PRO"
+		},
+	{	
+		"email" :"teja112@gmail.com",
+		"password" : "Ravi@123",
+		"productName" : "LG Refrigerator"
+	},
+	{	
+		"email": "ravi11@gmail.com",
+		"password":  "Ravi@123",
+		"productName": "ADIDAS ORIGINAL"
+}
+]
